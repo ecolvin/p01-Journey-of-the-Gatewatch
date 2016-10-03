@@ -1,0 +1,17 @@
+/*
+* Eric Colvin
+* Characters and locations from Magic the Gathering
+*/
+body{
+  background-color: #000066;
+  color: #FF6600;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.leftChoice{
+  color: green;
+}
+
+.rightChoice{
+  color: red;
+}
